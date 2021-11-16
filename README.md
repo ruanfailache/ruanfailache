@@ -1,5 +1,4 @@
 ## Hello world, I'm Ruan
----
 # I'm a full stack developer, student and a big fan of design
 
 - You can find my portfolio here (in the future i will put it there) 
