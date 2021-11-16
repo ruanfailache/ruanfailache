@@ -36,6 +36,3 @@
 ## Talk with me or suggest an amazing project, I'm open to new ideas!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruanfailache)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruan_failache)
-
-
-[![Profile](https://github-readme-stats.vercel.app/api?username=RuanFailache&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/RuanFailache)
