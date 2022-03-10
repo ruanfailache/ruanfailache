@@ -1,8 +1,8 @@
 ## Hello world, I'm Ruan
 # I'm a full stack developer, student and a big fan of design
 
-- I'm currently learning typescript and sass
-- I'm currently participate in the Driven's bootcamp
+- I'm currently learning React Native and studying more about tests
+- I'm currently working at Mutual as Front End Developer and at Mentora as Back End Developer
 - Fun Fact: I started to learn english and japanese just to read mangas that i didn't find in portuguese
 
 ### Languages:
