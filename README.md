@@ -1,7 +1,6 @@
 ## Hello world, I'm Ruan
 # I'm a full stack developer, student and a big fan of design
 
-- You can find my portfolio here (in the future i will put it there) 
 - I'm currently learning typescript and sass
 - I'm currently participate in the Driven's bootcamp
 - Fun Fact: I started to learn english and japanese just to read mangas that i didn't find in portuguese
