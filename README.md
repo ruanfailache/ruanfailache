@@ -1,37 +1,21 @@
-## Hello world, I'm Ruan
-# I'm a full stack developer, student and a big fan of design
+# Hello there, I'm Ruan 👋🏼
 
-- I'm currently learning React Native and studying more about tests
-- I'm currently working at Mutual as Front End Developer and at Mentora as Back End Developer
-- Fun Fact: I started to learn english and japanese just to read mangas that i didn't find in portuguese
+I'm a Front End Developer with experience in React and Flutter. My last job was at a Fin Tech where I developed a mobile application from scratch with Flutter and Bloc. That job helped me get out of my little box and learn new things about clean code and architecture, scalability, performance, etc. Since then, I tried to challenge myself to continue to explore and pursue new challenges and knowledge.
 
-### Languages:
-[![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/RuanFailache)
-[![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/RuanFailache)
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/RuanFailache)
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/RuanFailache)
+## About me
 
+- I started studying programming in 2018, my first contact was at the University
+- I graduated from the Web Full Stack Developer Bootcamp at Driven Education in 2022
 
-### Frameworks:
-[![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/RuanFailache)
-[![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/RuanFailache)
-[![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/RuanFailache)
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/RuanFailache)
+## What am I doing now?
 
+- Studying more about <strong>Micro Front End</strong>
+- Studying more about <strong>Unit</strong> and <strong>Integration Test</strong>
+- Studying more about <strong>Clean Architecture</strong> applied in Front End
+- Studying more about <strong>Flutter's advanced topics</strong>
+- Every day, I solve a question from LeetCode or CodeWars to develop my ability to solve complex code problem
 
-### Databases:
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/RuanFailache)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/RuanFailache)
-
-
-### Tools:
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/RuanFailache)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/RuanFailache)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/RuanFailache)
-
-
-###
 ## Talk with me or suggest an amazing project, I'm open to new ideas!
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanfailache@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruanfailache)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruan_failache)
