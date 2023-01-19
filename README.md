@@ -4,7 +4,8 @@ I'm a Front End Developer with experience in React and Flutter. My last job was 
 
 ## About me
 
-- I started studying programming in 2018, my first contact was at the University
+- I started studying programming in 2018, my first contact was at the University in the Computer Engineering course
+- I dropped out of my Computer Engineering course to focus on my career as a Developer
 - I attended the Full Stack Web Development Bootcamp at Driven Education from July 2021 to February 2022
 - I've been studying systems analysis and development at Descomplica since April 2022
 
